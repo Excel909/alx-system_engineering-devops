@@ -1,0 +1,2 @@
+#!/bin/bash
+$(chmod o= hello) $(chmod g= hello) $(chmod u= rwx hello)
