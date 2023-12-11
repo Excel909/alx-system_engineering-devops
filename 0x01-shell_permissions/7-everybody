@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod g+x && chmod u+x && chmod u+x
+$(chmod u+x hello) $(chmod g+x hello) $(chmod o+x hello)
